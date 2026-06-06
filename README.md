@@ -1,10 +1,10 @@
+# <div align="center">👋 Halo, Saya Lintar Yan Zuhara</div>
+
 <div align="center">
 
-# 👋 Halo, Saya Lintar Yan Zuhara
+### 🚀 Laravel Developer | UI/UX Designer | Informatics Student
 
-### 💻 UI/UX Designer | Web Developer | Informatics Student
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00BFFF&height=250&section=header&text=Lintar%20Yan%20Zuhara&fontSize=40&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;Laravel+Developer;UI%2FUX+Designer;Informatics+Student;Building+Useful+Digital+Solutions" />
 
 </div>
 
@@ -12,98 +12,159 @@
 
 ## 🚀 Tentang Saya
 
-🎓 Mahasiswa Teknik Informatika
+🎓 Mahasiswa Teknik Informatika Universitas Pamulang
 
-💻 Tertarik pada Web Development, UI/UX Design, dan Software Engineering
+💻 Memiliki minat dalam:
 
-📚 Sedang mempelajari Laravel, Vue.js, Java, dan Pengembangan Sistem Informasi
+* Web Development
+* Laravel Development
+* UI/UX Design
+* Software Engineering
+* Database Management
+* Information System Development
 
-🎯 Berfokus pada pembuatan aplikasi yang bermanfaat dan mudah digunakan
+🌱 Saat ini sedang mempelajari:
 
-🌱 Selalu belajar teknologi baru dan mengembangkan kemampuan pemrograman
+* Laravel Framework
+* REST API Development
+* UI/UX Design
+* Software Architecture
+* Modern Web Technologies
+
+🎯 Tujuan:
+
+Menjadi Software Engineer dan Laravel Developer profesional yang mampu membangun aplikasi yang bermanfaat dan berdampak positif bagi banyak orang.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Backend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel" />
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### Database
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Tools
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+## 🚀 Featured Project
 
-</div>
+### Seleno Lelang
+
+Platform lelang digital berbasis web yang menghubungkan Buyer dan Vendor dalam satu sistem terintegrasi.
+
+### Fitur Utama
+
+✅ Subscription System
+
+✅ Buyer Request Management
+
+✅ Vendor Advertisement
+
+✅ Offer Management
+
+✅ Negotiation Room
+
+✅ Transaction Monitoring
+
+✅ E-Wallet System
+
+✅ Admin Dashboard
+
+✅ Dark Mode Interface
+
+### Teknologi
+
+* Laravel
+* PHP
+* MySQL
+* JavaScript
+* Bootstrap
+* HTML5
+* CSS3
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=lintaryanzuharayz-ui&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lintaryanzuharayz-ui&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lintaryanzuharayz-ui&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lintaryanzuharayz-ui&layout=compact&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
-## 🏆 GitHub Trophy
+## 🔥 GitHub Streak
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lintaryanzuharayz-ui&theme=tokyonight&row=1"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lintaryanzuharayz-ui&theme=tokyonight"/>
 
-</div>
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lintaryanzuharayz-ui&theme=tokyo-night"/>
 
-</div>
+</p>
 
 ---
 
-## 📫 Hubungi Saya
+## 🌐 Connect With Me
 
-📧 Email:lintaryanzuhara.yz@gmail.com
+<p align="center">
 
-📷 Instagram : @_tar_35
+<a href="https://github.com/lintaryanzuharayz-ui">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-📱 WhatsApp : 087784304417
+<a href="https://instagram.com/_tar_35">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
 
-👤 Nama : Lintar Yan Zuhara
+</p>
 
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=lintaryanzuharayz-ui&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
 
 ---
 
 <div align="center">
 
-### Terima kasih telah mengunjungi profil saya 😊
+### 💙 Terima Kasih Sudah Berkunjung
 
-![](https://komarev.com/ghpvc/?username=lintaryanzuharayz-ui&color=blueviolet)
+⭐ Jangan lupa follow dan beri star pada repository yang menarik.
 
 </div>
-![Lintar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lintaryanzuharayz-ui&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lintaryanzuharayz-ui&layout=compact&theme=tokyonight)
-
-
